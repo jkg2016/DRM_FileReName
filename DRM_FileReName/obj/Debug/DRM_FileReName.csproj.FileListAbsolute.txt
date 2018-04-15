@@ -1,0 +1,6 @@
+C:\Users\Jayman Gandhi\Documents\Visual Studio 2013\Projects\DRM_FileReName\DRM_FileReMame\bin\Debug\DRM_FileReMame.exe.config
+C:\Users\Jayman Gandhi\Documents\Visual Studio 2013\Projects\DRM_FileReName\DRM_FileReMame\obj\Debug\DRM_FileReMame.exe
+C:\Users\Jayman Gandhi\Documents\Visual Studio 2013\Projects\DRM_FileReName\DRM_FileReMame\obj\Debug\DRM_FileReMame.pdb
+C:\Users\Jayman Gandhi\Documents\Visual Studio 2013\Projects\DRM_FileReName\DRM_FileReName\bin\Debug\DRM_FileReMame.exe.config
+C:\Users\Jayman Gandhi\Documents\Visual Studio 2013\Projects\DRM_FileReName\DRM_FileReName\obj\Debug\DRM_FileReMame.exe
+C:\Users\Jayman Gandhi\Documents\Visual Studio 2013\Projects\DRM_FileReName\DRM_FileReName\obj\Debug\DRM_FileReMame.pdb
